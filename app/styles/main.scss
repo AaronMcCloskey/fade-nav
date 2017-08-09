@@ -51,21 +51,21 @@ section {
 }
 
 #first {
-    background-image: url(../images/image1.jpeg);
+    background-image: linear-gradient(rgba(255, 126, 46, 1), rgba(252, 146, 85, 1));
     background-size: cover !important;
     background-position: center !important;
     backface-visibility: hidden;
 }
 
 #second {
-    background-image: url(../images/image2.jpeg);
+    background-image: linear-gradient(rgba(147, 206, 222, 1), rgba(73, 165, 191, 1));
     background-size: cover !important;
     background-position: center !important;
     backface-visibility: hidden;
 }
 
 #third {
-    background-image: url(../images/image3.jpg);
+    background-image: linear-gradient(rgba(164, 179, 87, 1), rgba(117, 137, 12, 1));
     background-size: cover !important;
     background-position: center !important;
     backface-visibility: hidden;
